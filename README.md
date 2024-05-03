@@ -3,6 +3,10 @@ The back end for an e-commerce site using a working Express.js API configured to
 
 ## Description
 
+Working Express.js API configured to use Sequelize to interact with a PostgreSQL database for an e-commerce site.
+
+
+
 ## Table of Contents (Optional)
 
 - [Installation](#installation)
@@ -10,9 +14,7 @@ The back end for an e-commerce site using a working Express.js API configured to
 - [Credits](#credits)
 - [License](#license)
 - [Badges](#badges)
-- [Features](#features)
 - [Contribute](#how-to-contribute)
-- [Test](#tests)
 
 ## Installation
 
@@ -24,7 +26,11 @@ https://www.npmjs.com/package/pg/v/8.11.5
 
 ## Usage
 
+https://drive.google.com/file/d/1alQN45WhHxcg_11LsEt5oNsgOHZWE0tu/view?usp=sharing
+
 ## Credits
+
+N/A
 
 ## License
 
@@ -40,8 +46,6 @@ https://www.npmjs.com/package/pg/v/8.11.5
 
 (https://shields.io/)
 
-## Features
-
 ## How to Contribute
 
 You can contribute via the following GitHub link.
@@ -51,6 +55,3 @@ https://github.com/ccreed86/money-maker
 Clone the repo and request a merg via push of your contributions. If you have further questions please email me at 
 
 cliftionreed1986@gmail.com
-
-
-## Tests
