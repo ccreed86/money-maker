@@ -7,7 +7,6 @@ const ProductTag = require('./ProductTag');
 // Products belongsTo Category
 Product.hasOne(Category, {
   foreignKey: 'category_id',
-  // When we delete a Driver, make sure to also delete the associated License.
   onDelete: 'CASCADE',
 });
 
